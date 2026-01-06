@@ -16,6 +16,7 @@ This project implements a machine learning based system to monitor daily hydrati
 ## 📊 Dataset
 **Daily Water Intake and Hydration Patterns Dataset**  
 Source: Kaggle  
+Link: https://www.kaggle.com/datasets/sonalshinde123/daily-water-intake-and-hydration-patterns-dataset
 
 ### Features Used
 - Age
