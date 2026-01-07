@@ -1,4 +1,4 @@
-# 💧 HydraSense: Smart Hydration Monitoring & Water Reminder System
+# 💧 HydraSense: Smart Hydration Monitoring & Water Reminder System using Machine Learning
 
 ## 📌 Project Overview
 This project implements a machine learning based system to monitor daily hydration levels, predict personalized water intake requirements, and provide smart water reminders. The system combines classification and regression models to detect dehydration risk and recommend appropriate water consumption based on individual lifestyle and environmental factors.
