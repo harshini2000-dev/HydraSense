@@ -90,7 +90,6 @@ Link: https://www.kaggle.com/datasets/sonalshinde123/daily-water-intake-and-hydr
 ## 📌 Conclusion
 This project demonstrates the application of machine learning techniques to solve a real-world health problem by combining predictive modeling with rule-based decision logic to create a smart hydration monitoring system.
 
-<img width="690" height="314" alt="image" src="https://github.com/user-attachments/assets/ee932360-c34e-4a3c-bf47-79dfd4710680" />
 
 
 
