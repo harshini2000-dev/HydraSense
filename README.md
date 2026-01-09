@@ -1,14 +1,13 @@
-# 💧 HydraSense: Smart Hydration Monitoring & Water Reminder System using Machine Learning
+# 💧 HydraSense: Dehydration Risk Detection System using Machine Learning
 
 ## 📌 Project Overview
-This project implements a machine learning based system to monitor daily hydration levels, predict personalized water intake requirements, and provide smart water reminders. The system combines classification and regression models to detect dehydration risk and recommend appropriate water consumption based on individual lifestyle and environmental factors.
+This project implements a machine learning based system to monitor hydration levels and predict personalized water intake requirements. The system combines classification and regression models to detect dehydration risk and recommend appropriate water consumption based on individual lifestyle and environmental factors.
 
 ---
 
 ## 🎯 Objectives
 - Detect whether a person is dehydrated or well hydrated
 - Predict daily water intake requirements (in liters)
-- Generate personalized water intake reminders
 - Apply machine learning to a real-world health monitoring problem
 
 ---
@@ -49,24 +48,14 @@ Link: https://www.kaggle.com/datasets/sonalshinde123/daily-water-intake-and-hydr
 
 ---
 
-## ⚙️ Smart Water Reminder Logic
-The system combines predictions from both models to:
-1. Estimate daily water intake requirements
-2. Detect dehydration risk
-3. Trigger personalized reminders based on remaining water deficit
-
-Example Output:
-- “High dehydration risk! Drink 1.2 liters of water today.”
-- “You are well hydrated. Keep it up!”
-
----
-
 ## 🛠️ Technologies Used
 - Python
 - Pandas, NumPy
-- Scikit-learn
-- Matplotlib / Seaborn
+- Scikit-learn / Sklearn
+- Matplotlib
+- Seaborn
 - Jupyter Notebook
+- Streamlit
 
 ---
 
@@ -77,14 +66,31 @@ Example Output:
 
 ---
 
+## Images
+### 1. Hydrated Case
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/dff64d82-f05b-4b78-8494-702e2b16f693" />
+
+<img width="500" height="440" alt="image" src="https://github.com/user-attachments/assets/250b50af-d7ba-4b65-b818-4243826dda72" />
+
+### 2. Dehydrated Case
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/95abd81f-d7e4-4d80-990e-b3717287ef49" />
+
+<img width="500" height="440" alt="image" src="https://github.com/user-attachments/assets/8bd40e32-5cd6-4927-a3a4-7d3306851633" />
+
+---
+
 ## 🚀 Future Enhancements
 - Deploy as a Streamlit web application
 - Add real-time water intake tracking
-- Integrate wearable or mobile app data
+- Water Reminder System
 - Implement MLOps pipelines for monitoring and retraining
 
 ---
 
 ## 📌 Conclusion
 This project demonstrates the application of machine learning techniques to solve a real-world health problem by combining predictive modeling with rule-based decision logic to create a smart hydration monitoring system.
+
+<img width="690" height="314" alt="image" src="https://github.com/user-attachments/assets/ee932360-c34e-4a3c-bf47-79dfd4710680" />
+
+
 
