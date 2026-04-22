@@ -1,4 +1,4 @@
-# 💧 HydraSense: Dehydration Risk Detection System using Machine Learning
+# 💧 HydraML: Dehydration Risk Detection System using Machine Learning
 
 Access Portal: https://hydrasense-ml.streamlit.app/
 
